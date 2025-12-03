@@ -1,1 +1,1 @@
-the file is here for mergeconflict test case
+the file is here for mergeconflict test case the alteration 2 is done
