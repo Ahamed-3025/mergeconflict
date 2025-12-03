@@ -1,1 +1,1 @@
-the file is here for mergeconflict test case no alteration is done
+city none
